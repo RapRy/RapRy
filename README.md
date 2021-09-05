@@ -10,7 +10,11 @@ Wanna see some graphics design?? check my :point_right: [![Deviantart Badge](htt
 
 ---
 
-### :file_folder: Project Repositories
+<details>
+  <summary>
+    <b> :file_folder: Project Repositories</b>
+  </summary>
+  
 - **Personal Projects**
   - **[DL Store](https://github.com/RapRy/downloadStore-react)** (built with reactjs)
   - **[DownloadStore API](https://github.com/RapRy/downloadportal-nodejs)**
@@ -32,8 +36,10 @@ Wanna see some graphics design?? check my :point_right: [![Deviantart Badge](htt
   - **[blogr landing page](https://github.com/RapRy/blogrlandingpage-frontendmentor)**
   - **[job listing](https://github.com/RapRy/joblistingfrontendmentor)**
   - **[ip address tracker](https://github.com/RapRy/ipaddresstracker-frontendmentor)**
-
+  
 ---
+</details>
+  
 
 ### :zap: Tools and Programming languages that I'm currently into
 
