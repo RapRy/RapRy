@@ -6,7 +6,7 @@
 
 I'm **Ryan** :man_technologist:, an aspiring Frontend Developer who can do a little bit of this and that, but can still get the job done. I'm currently working as a Graphics Designer and Web Developer. I would love to do frontend development projects and open to learning new technologies. 
 
-So you are here and you wanna view all the projects that I created, feel free to browse my collection. Just let me know :point_right: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:rapry.olarte@gmail.com)](mailto:rapry.olarte@gmail.com) if you see something interesting and we'll talked about it. :wink:
+Feel free to browse my collection, just let me know :point_right: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:rapry.olarte@gmail.com)](mailto:rapry.olarte@gmail.com) if you see something interesting and we'll talked about it. :wink:
 
 Wanna see some graphics design?? check my :point_right: [![Deviantart Badge](https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white)](https://www.deviantart.com/ryapache)
 
