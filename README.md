@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="230">
 
-I'm **Ryan** :man_technologist:, an aspiring Frontend Developer who can do a little bit of this and that, but can still get the job done. I'm currently working as a Graphics Designer and Web Developer. I would love to do frontend development projects and open to learning new technologies. 
+I'm **Ryan** :man_technologist:, an aspiring Frontend Developer who has experience building responsive websites. I'm proficient in Frontend Languages such as HTML, CSS, Javascript and JS Frameworks with knowledge and experience of UI and UX. I'm currently working as a Graphics Designer and Web Developer. I would love to do frontend development projects and open to learning new technologies. 
 
 Feel free to browse my collection, just let me know :point_right: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:rapry.olarte@gmail.com)](mailto:rapry.olarte@gmail.com) if you see something interesting and we'll talked about it. :wink:
 
