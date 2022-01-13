@@ -19,10 +19,10 @@ Wanna see some graphics design?? check my :point_right: [![Deviantart Badge](htt
   
 #### Personal Projects
   - **[DL Store](https://github.com/RapRy/downloadStore-react)** (built using reactjs)
-  - **[DownloadStore API](https://github.com/RapRy/downloadportal-nodejs)** (built using nodejs)
-  - **[DL Store](https://github.com/RapRy/dlPortal)** (built using PHP)
   - **[Simple Blog Site](https://github.com/RapRy/universityofschoolscolleges)** (built using reactjs)
   - **[idol ecommerce](https://github.com/RapRy/idolEcommerce)** (built using reactjs)
+  - **[DownloadStore API](https://github.com/RapRy/downloadportal-nodejs)** (built using nodejs)
+  - **[DL Store](https://github.com/RapRy/dlPortal)** (built using PHP)
 
 #### Work Related
   - **[Portal 15](https://github.com/RapRy/portal15---PHP)**
